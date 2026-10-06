@@ -30,7 +30,7 @@ The Power BI model was built using the **Gold Views** from the Instacart Data Wa
 
 <!-- Add your Data Model image here -->
 
-![Instacart Power BI Data Model](YOUR_DATA_MODEL_IMAGE_PATH)
+![Instacart Power BI Data Model](<Data Model/Data model.png>)
 
 ---
 
@@ -38,13 +38,13 @@ The Power BI model was built using the **Gold Views** from the Instacart Data Wa
 
 The data used in this dashboard comes from the **Gold Views** of the SQL Data Warehouse project.
 
-**[View Data Warehouse Repository](YOUR_DATA_WAREHOUSE_REPO_LINK)**
+**[View Data Warehouse Repository](https://github.com/ahmedalaa-1/Instacart_warehouse_project)**
 
 ---
 
 ### 🔗 Power BI Service
 
-**[View Interactive Power BI Dashboard](YOUR_POWER_BI_SERVICE_LINK)**
+**[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzI5OWUyZGYtMGNhYy00ZmMyLTljNzktNDA2MmM0YzZkOTQ0IiwidCI6IjZhYWE0MDU0LTgzNGEtNGJiMi1hYzIwLWRkM2E0NmJiMzg5MiJ9)**
 
 ---
 
@@ -63,7 +63,7 @@ A high-level view of overall business performance, including:
 
 <!-- Add Page 1 screenshot here -->
 
-![Instacart Dashboard - Overview](YOUR_PAGE_1_IMAGE_PATH)
+![Instacart Dashboard - Overview](<dashboard/Overview.png>)
 
 ---
 
@@ -79,7 +79,7 @@ Analyzes customer purchasing frequency and repeat behavior, including:
 
 <!-- Add Page 2 screenshot here -->
 
-![Instacart Dashboard - Customer Behavior](YOUR_PAGE_2_IMAGE_PATH)
+![Instacart Dashboard - Customer Behavior](<dashboard/Customers behavior.png>)
 
 ---
 
@@ -95,7 +95,7 @@ Explores product and category performance through:
 
 <!-- Add Page 3 screenshot here -->
 
-![Instacart Dashboard - Products & Categories](YOUR_PAGE_3_IMAGE_PATH)
+![Instacart Dashboard - Products & Categories](<dashboard/Products & Category.png>)
 
 ---
 
@@ -183,4 +183,4 @@ The objective of this project is to transform transactional e-commerce data into
 
 Data Analyst | SQL | Power BI | Data Analytics
 
-[GitHub](YOUR_GITHUB_LINK) · [LinkedIn](YOUR_LINKEDIN_LINK)
+[LinkedIn](https://www.linkedin.com/in/-ahmedalaa-/)
